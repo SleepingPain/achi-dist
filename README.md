@@ -1,6 +1,6 @@
 # 애치(ACHI) 배포
 
-최신 설치 파일: [achi-setup-0.5.1.exe](https://github.com/SleepingPain/achi-dist/releases/download/v0.5.1/achi-setup-0.5.1.exe)
+최신 설치 파일: [achi-setup-0.5.2.exe](https://github.com/SleepingPain/achi-dist/releases/download/v0.5.2/achi-setup-0.5.2.exe)
 
-- 최신 버전: **0.5.1** (2026-07-16)
+- 최신 버전: **0.5.2** (2026-07-16)
 - 자동 업데이트: 애치가 실행 중 이 저장소의 `latest.json`을 확인해 새 버전을 알려줍니다.
