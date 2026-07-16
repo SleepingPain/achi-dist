@@ -1,9 +1,9 @@
 {
-    "version":  "0.5.6",
-    "url":  "https://github.com/SleepingPain/achi-dist/releases/download/v0.5.6/achi-setup-0.5.6.exe",
-    "notes":  "익명 설치 카운트 추가 (하루 1회, 개인정보 없음 — 순설치·활성 사용자 수 파악용)",
+    "version":  "0.5.7",
+    "url":  "https://github.com/SleepingPain/achi-dist/releases/download/v0.5.7/achi-setup-0.5.7.exe",
+    "notes":  "한글(HWP) 문서를 애치에게 주면 HWPX·DOCX(워드)로 변환해줘요 (드롭 후 선택, 한글 설치 PC)\n애치 잡기 밀착 개선·익명 설치 카운트 포함",
     "date":  "2026-07-16",
-    "sha256":  "4BDD112155FE1B8387EC7D84F46A7063341323FF7458BB031C4BE03C00EEE7C1",
+    "sha256":  "AE0194FC906DAC109875EBE9CF8A760F659B8650551DAB0DB0648AF2DB58B1F2",
     "sizeMb":  54.4,
     "mandatory":  false
 }
