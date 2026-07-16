@@ -1,9 +1,9 @@
 {
-    "version":  "0.5.5",
-    "url":  "https://github.com/SleepingPain/achi-dist/releases/download/v0.5.5/achi-setup-0.5.5.exe",
-    "notes":  "애치를 잡으면 커서에 바로 착 붙도록 개선했어요 (안기 동작이 자연스러워짐)",
+    "version":  "0.5.6",
+    "url":  "https://github.com/SleepingPain/achi-dist/releases/download/v0.5.6/achi-setup-0.5.6.exe",
+    "notes":  "익명 설치 카운트 추가 (하루 1회, 개인정보 없음 — 순설치·활성 사용자 수 파악용)",
     "date":  "2026-07-16",
-    "sha256":  "CEF4FE4F94BBDD84D87A810084E7FD5FAE62BB28A4434D4B54A41ADB854099BF",
+    "sha256":  "4BDD112155FE1B8387EC7D84F46A7063341323FF7458BB031C4BE03C00EEE7C1",
     "sizeMb":  54.4,
     "mandatory":  false
 }
