@@ -1,0 +1,8 @@
+{
+    "version":  "0.5.0",
+    "url":  "https://github.com/SleepingPain/achi-dist/releases/download/v0.5.0/achi-setup-0.5.0.exe",
+    "notes":  "첫 정식 배포: 자동 업데이트와 정식 인스톨러 도입. 누끼(배경제거), 애치 꾸미기, 드롭 옵션 메뉴, 11개 언어, 60fps 부드러운 움직임.",
+    "date":  "2026-07-16",
+    "sha256":  "B1EB13B6D78B779A35D5B265D8A7428E995D8AC24A4F76BB8F1D12C73694F549",
+    "mandatory":  false
+}
