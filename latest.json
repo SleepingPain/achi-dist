@@ -1,9 +1,9 @@
 {
-    "version":  "0.5.3",
-    "url":  "https://github.com/SleepingPain/achi-dist/releases/download/v0.5.3/achi-setup-0.5.3.exe",
-    "notes":  "누끼(배경 제거) — 사진을 주면 배경만 쏙 빼서 돌려줘요,애치 꾸미기 — 애치의 몸 색깔을 바꿀 수 있어요,파일을 주면 골라서 처리 — 누끼·JPG·PNG·ZIP 중에서 선택,11개 언어로 인사해요,60fps로 더 부드럽게 움직여요,업데이트 알림 화면을 산뜻하게 다듬었어요",
+    "version":  "0.5.4",
+    "url":  "https://github.com/SleepingPain/achi-dist/releases/download/v0.5.4/achi-setup-0.5.4.exe",
+    "notes":  "누끼(배경 제거) — 사진을 주면 배경만 쏙 빼서 돌려줘요\n애치 꾸미기 — 애치의 몸 색깔을 바꿀 수 있어요\n파일을 주면 골라서 처리해요 — 누끼·JPG·PNG·ZIP 중에서 선택\n11개 언어로 인사해요\n60fps로 더 부드럽게 움직여요\n업데이트 알림 화면을 산뜻하게 다듬었어요",
     "date":  "2026-07-16",
-    "sha256":  "DAE2D7ACD05A3D8B53F3201AD54E41F59BBEFBDEA20D041A702D3EE7A6DE5D27",
+    "sha256":  "DF6ABE98D5D75683B0F85263DE245109B4593EC540EBA79C1DF78A68AD72D164",
     "sizeMb":  54.4,
     "mandatory":  false
 }
