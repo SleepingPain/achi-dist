@@ -1,9 +1,9 @@
 {
-    "version":  "0.5.7",
-    "url":  "https://github.com/SleepingPain/achi-dist/releases/download/v0.5.7/achi-setup-0.5.7.exe",
-    "notes":  "한글(HWP) 문서를 애치에게 주면 HWPX·DOCX(워드)로 변환해줘요 (드롭 후 선택, 한글 설치 PC)\n애치 잡기 밀착 개선·익명 설치 카운트 포함",
-    "date":  "2026-07-16",
-    "sha256":  "AE0194FC906DAC109875EBE9CF8A760F659B8650551DAB0DB0648AF2DB58B1F2",
-    "sizeMb":  54.4,
+    "version":  "0.6.0",
+    "url":  "https://github.com/SleepingPain/achi-dist/releases/download/v0.6.0/achi-setup-0.6.0.exe",
+    "notes":  "오디오를 MP3로 바꿔줘요 — wav·m4a·wma를 애치한테 물려주면 됩니다\n큰 파일은 오물오물 씹으며 기다렸다가, 다 되면 만세로 알려줘요",
+    "date":  "2026-07-17",
+    "sha256":  "D8C00FFA1C25F545D38FCC3E8CFACCA353188841C4F2E4C9F90AF86A47AA314A",
+    "sizeMb":  54.6,
     "mandatory":  false
 }
