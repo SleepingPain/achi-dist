@@ -1,9 +1,9 @@
 {
-    "version":  "0.6.1",
-    "url":  "https://github.com/SleepingPain/achi-dist/releases/download/v0.6.1/achi-setup-0.6.1.exe",
-    "notes":  "한 자리에 오래 멈춰 있던 문제 수정\n자리를 비우면 바탕화면 아이콘 위를 뛰어다니는 아이콘 캣타워 추가 (마우스를 흔들면 돌아와요)\n안정성 개선",
+    "version":  "0.6.2",
+    "url":  "https://github.com/SleepingPain/achi-dist/releases/download/v0.6.2/achi-setup-0.6.2.exe",
+    "notes":  "아이콘 캣타워가 진짜 고양이처럼: 아이콘에 머리 비비기, 냥냥펀치, 바닥 어슬렁, 식빵 굽다 꾸벅 졸기\n행동 다양성·자연스러움 개선",
     "date":  "2026-07-18",
-    "sha256":  "8C47D194A2C78D841FC7F4FE40CAC59A2425229A913AD18AC9D20BE2392F177F",
+    "sha256":  "C2C8325F5096469D2DC094D35CFFF146147161FDBF09AA7FC9A2DF7CAAAEC316",
     "sizeMb":  54.6,
     "mandatory":  false
 }
